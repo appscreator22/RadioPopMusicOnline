@@ -4,12 +4,12 @@ function chillHop() {
     return [
 
         {
-            name:"100 Hitz",
-            artist: "100Hitz",
+            name:"World Hits Kpop",
+            artist: "WorldHitsKpop",
             cover: "https://img.freepik.com/vector-gratis/silueta-aparato-radio_23-2147501018.jpg",
             id: uuidv4(),
             color: ["#F24933", "#F9B437"],
-            audio: "http://gr02.cdnstream.com:8290/",
+            audio: "https://stream-31.zeno.fm/7qk8gcygk5zuv?zs=C_VyoS2aRqKUXfEy95SlNQ",
             active: true,
         },
         {
